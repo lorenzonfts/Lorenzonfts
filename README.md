@@ -1,9 +1,12 @@
-### Hello! I'm Athos
+<h2 align="center">
+   <img src="https://raw.githubusercontent.com/celsotavaresdev/celsotavaresdev/main/images/hi.gif" width="26px">
+   Hi there, I'm Le athos!
+</h2>
 
 
 :bookmark_tabs:About Me:
 
-- :thinking: I am currently studying PHP and MySQL
+- :thinking: I am currently studying PHP, MySQL and Bootstrap
 - :seedling: I want to learn: Python, Laravel, Node.js...
 - :speaking_head: I speak: Portuguese (Fluent), English (Intermediate), Spanish (Intermediate)
 
