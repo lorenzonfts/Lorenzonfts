@@ -1,5 +1,4 @@
 <h2 align="center">
-   <img src="https://raw.githubusercontent.com/celsotavaresdev/celsotavaresdev/main/images/hi.gif" width="26px">
    Hi there, I'm Le athos!
 </h2>
 
