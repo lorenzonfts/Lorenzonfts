@@ -5,7 +5,7 @@
 
 :bookmark_tabs:About Me:
 
-- :thinking: I am currently: JavaScript and English
+- :thinking: I am currently studying: JavaScript and English
 - :seedling: I want to learn: React.js, Node.js...
 - :speaking_head: I speak: Portuguese, English and Spanish 
 
