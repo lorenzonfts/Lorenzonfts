@@ -10,6 +10,8 @@
 - :seedling: I want to learn: React.js, Node.js...
 - :speaking_head: I speak: Portuguese, English and Spanish 
 
+👉More about me: https://resume.io/r/bxabRRmjb
+
 
 <div>
   <a href="https://beacons.ai/lorenzonfts">
