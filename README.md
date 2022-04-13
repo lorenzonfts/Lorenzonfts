@@ -6,7 +6,7 @@
 :bookmark_tabs:About Me:
 - :thinking: Full name: Lorenzo Martins Rodrigues
 - 💪 Years Old: 15 years
-- :thinking: I am currently studying: JavaScript and English
+- :thinking: I am currently studying: Solidity and English
 - :seedling: I want to learn: React.js, Node.js...
 - :speaking_head: I speak: Portuguese, English and Spanish 
 
